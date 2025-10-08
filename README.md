@@ -9,6 +9,9 @@
 - 📚 **正在认真学习**：C语言基础 | Python入门
 - 🎯 **短期目标**：扎实掌握编程基础，培养计算思维
 - 💡 **学习理念**：不急于求成，享受从0到1的成长过程
+
+[邮箱](mailto:HeisenbugX@gmail.com)
+
 <!--
 **Gaozhancheng/Gaozhancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
