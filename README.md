@@ -18,7 +18,6 @@
 
 - 📧 **邮箱：** [HeisenbugX@gmail.com](mailto:HeisenbugX@gmail.com)
 - 📝 **博客：** [我的博客](http://Gaozhancheng.xyz)
-- 🐧 **QQ：** [3074131991](http://wpa.qq.com/msgrd?v=3&uin=3074131991&site=qq&menu=yes)
 ---
 
 ⭐️ 感谢你的到访！
