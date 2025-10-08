@@ -1,5 +1,14 @@
 ## Hello! 👋
 
+### 关于我
+
+我是**小高同学**，一名正在探索编程世界的AI专业学生。
+
+🎓 **学习状态**
+- 就读于 [福建师范大学](https://www.fjnu.edu.cn/)，**人工智能**专业在读
+- 📚 **正在认真学习**：C语言基础 | Python入门
+- 🎯 **短期目标**：扎实掌握编程基础，培养计算思维
+- 💡 **学习理念**：不急于求成，享受从0到1的成长过程
 <!--
 **Gaozhancheng/Gaozhancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
